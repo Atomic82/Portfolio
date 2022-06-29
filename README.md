@@ -21,10 +21,7 @@ I’m a FrontEnd Developer & Web Designer passionate for creating aesthetically 
 
 <a href="a"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 
-# Freelance Contact
+# Freelance Contact & Design Portfolio
 ----
 [Atomic82](https://www.atomic82.com/)
 
-# Design Portfolio
-----
-[Tom Beadie](https://www.tombeadie.com/)
